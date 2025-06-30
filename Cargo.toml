@@ -41,7 +41,7 @@ embedded-hal-1 = { package = "embedded-hal", version = "1.0" }
 stm32f0 = "0.15"
 nb = "1"
 void = { version = "1.0", default-features = false }
-stm32-usbd = { version = "0.6", optional = true }
+stm32-usbd = { version = "0.7", optional = true }
 bxcan = "0.8.0"
 embedded-storage = "0.3.0"
 
